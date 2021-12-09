@@ -1,1 +1,1 @@
-# eventmanager
+# dotnet-template
